@@ -1,0 +1,74 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.25.0,<4.27
+open_clip_torch>=2.20.0
+decord>=0.6.0
+opencv-python>=4.8.0
+ffmpeg-python>=0.2.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Image processing and computer vision
+scikit-image>=0.21.0
+Pillow>=10.0.0
+
+# Vector similarity
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Web framework
+fastapi>=0.100.0
+uvicorn>=0.22.0
+streamlit>=1.25.0
+gradio>=3.35.0
+
+# Async processing
+celery>=5.3.0
+redis>=4.6.0
+
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.11.0
+
+# Utilities
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-multipart>=0.0.6
+aiofiles>=23.1.0
+pillow>=10.0.0
+tqdm>=4.65.0
+loguru>=0.7.0
+python-dotenv>=1.0.0
+psutil>=5.9.0
+
+# BLIP model - using compatible version
+# salesforce-lavis>=1.0.2  # Commented out due to dependency conflicts
+# Alternative: Use transformers and torch directly for BLIP-2
+
+# UniVTG (install from GitHub)
+# git+https://github.com/showlab/UniVTG.git
+
+# Object Detection and Advanced Computer Vision
+ultralytics>=8.0.0
+opencv-contrib-python>=4.8.0
+rembg>=2.0.50
+segment-anything>=1.0
+torchvision>=0.15.0
+
+# Background Removal and Image Segmentation
+albumentations>=1.3.0
+imageio>=2.31.0
+
+# Advanced Feature Extraction
+timm>=0.9.0
+huggingface-hub>=0.16.0
+
+# MediaPipe for pose detection and face recognition
+mediapipe>=0.10.0
+
+# Color Space Processing
+colorspacious>=1.1.2
+skimage>=0.21.0
