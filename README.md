@@ -336,7 +336,7 @@ black src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) for vision-language models
 - [BLIP-2](https://github.com/salesforce/BLIP) for image captioning
@@ -344,22 +344,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Ultralytics](https://ultralytics.com/) for YOLOv8
 - [Streamlit](https://streamlit.io/) for the web interface
 - [FastAPI](https://fastapi.tiangolo.com/) for the API framework
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/nb-hmd/Advanced-Video-Event-Detection-Extraction/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/nb-hmd/Advanced-Video-Event-Detection-Extraction/discussions)
-- **Documentation**: [Wiki](https://github.com/nb-hmd/Advanced-Video-Event-Detection-Extraction/wiki)
-
-## 🔮 Roadmap
-
-- [ ] Real-time video streaming support
-- [ ] Mobile app development
-- [ ] Cloud deployment templates
-- [ ] Additional model integrations
-- [ ] Performance optimizations
-- [ ] Multi-language support
-
----
-
-**Made with ❤️ for the computer vision community**
